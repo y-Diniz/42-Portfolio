@@ -1,4 +1,4 @@
-# 42 Portfolio — y-Diniz
+# 42 Portfolio
 
 > All my 42 School projects organized by language and rank.
 
