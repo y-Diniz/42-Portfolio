@@ -19,3 +19,6 @@
 [submodule "C/philosophers"]
 	path = C/philosophers
 	url = https://github.com/y-Diniz/philosophers
+[submodule "C/Minishell"]
+	path = C/Minishell
+	url = https://github.com/42-Partners/Minishell
