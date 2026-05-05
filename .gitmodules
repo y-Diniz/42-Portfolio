@@ -22,3 +22,6 @@
 [submodule "C/Minishell"]
 	path = C/Minishell
 	url = https://github.com/42-Partners/Minishell
+[submodule "C/cub3d"]
+	path = C/cub3d
+	url = https://github.com/42-Partners/cub3d
