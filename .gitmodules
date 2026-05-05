@@ -4,3 +4,6 @@
 [submodule "C/ft_printf"]
 	path = C/ft_printf
 	url = https://github.com/y-Diniz/ft_printf
+[submodule "C/get_next_line"]
+	path = C/get_next_line
+	url = https://github.com/y-Diniz/get_next_line
