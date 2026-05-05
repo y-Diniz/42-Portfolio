@@ -16,3 +16,6 @@
 [submodule "C/push_swap"]
 	path = C/push_swap
 	url = https://github.com/y-Diniz/push_swap
+[submodule "C/philosophers"]
+	path = C/philosophers
+	url = https://github.com/y-Diniz/philosophers
