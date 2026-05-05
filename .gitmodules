@@ -7,3 +7,6 @@
 [submodule "C/get_next_line"]
 	path = C/get_next_line
 	url = https://github.com/y-Diniz/get_next_line
+[submodule "C/minitalk"]
+	path = C/minitalk
+	url = https://github.com/y-Diniz/minitalk
