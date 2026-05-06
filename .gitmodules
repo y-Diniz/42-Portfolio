@@ -28,3 +28,6 @@
 [submodule "CPP/CPP-Modules"]
 	path = CPP/CPP-Modules
 	url = https://github.com/y-Diniz/CPP-Modules
+[submodule "C/Piscine"]
+	path = C/Piscine
+	url = https://github.com/y-Diniz/42-piscine
