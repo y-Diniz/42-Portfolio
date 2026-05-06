@@ -4,6 +4,14 @@
 
 ---
 
+## Piscine
+
+| Repository | Description |
+|-----------|------------|
+| [42-piscine](https://github.com/y-Diniz/42-piscine) | Intensive introduction to C and Shell programming |
+
+---
+
 ## C Projects
 
 | Rank | Project | Description | Grade |
@@ -33,5 +41,5 @@
 To clone this repo along with all submodules:
 
 ```bash
-git clone --recurse-submodules https://github.com/y-Diniz/42-portfolio
+git clone --recurse-submodules https://github.com/y-Diniz/42-Portfolio
 ```
